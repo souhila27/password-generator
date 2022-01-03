@@ -21,7 +21,8 @@ https://github.com/souhila27/password-generator.git
 
 
 ## Working page screenshot
-<img src="./Develop/image/Screenshot 2022-01-03 155200.png>
+<img src="./Develop/image/Screenshot 2022-01-03 155200.png">
+
 
 ## Contributions
 Made by [souhila-boukari]
